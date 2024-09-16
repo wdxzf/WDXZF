@@ -20,7 +20,7 @@
   
 ## 🤺 关于我
 
-<img align="right" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 - **大家好，我是吴辉传**，目前就读于吉首大学通信工程专业，并将于2025年6月毕业。  
 - **我对嵌入式系统开发有极大的兴趣**，熟悉多种MCU开发，包括STM32、GD32、ESP32等。  
@@ -35,7 +35,7 @@
 <td>
 
 ## 👨‍💻 职业兴趣
-
+<img align="right" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 - **我叫吴辉传**，吉首大学通信工程专业本科生。  
 - **🎯 兴趣**：涵盖嵌入式开发、机械设计和智能系统设计。  
 - **🚀 技术优势**：擅长 STM32、ESP32 等 MCU 开发，以及 C 语言编程和 RTOS 任务调度。  
