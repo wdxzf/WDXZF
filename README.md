@@ -20,28 +20,11 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<p>&emsp;&emsp;大家好，我是小小白同学。</p>
-<p>&emsp;&emsp;目前就读于大学地理信息科学专业。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
-
-</td></tr>
-
-<tr><td>
-
-<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
-
-- 👴 我叫 <a href='https://yesmore.cc'>𝐉𝐮𝐢ç𝐞</a>, 或者2meow   
-- 💼 坐标成都, <em>双流一</em>大学本科牲</li>
-- 🚀 爱好<a href='https://500px.com.cn/community/user-details/816c1507a4879ad3a9ab28b2cdf655701'>摄影</a> | 倒装句患者 | 反射弧略长</li> 
-- 🎯 正在学习 Swift，<a href='https://yesmore.cc'>快乐码原</a> 是我的博客
-- 💁 欢迎加入 [**web前端养老院**](#-reach-me) 摸鱼
-- ✨ 如果想找我🤺, 那↘ 就↗ 来↗ 吧↘ 
-
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> <p>大家好，我是吴辉传，目前就读于吉首大学通信工程专业，并将于2025年6月毕业。</p> <p>我对嵌入式系统开发有极大的兴趣，熟悉多种MCU开发，包括STM32、GD32、ESP32等，同时也掌握了C语言编程、RTOS实时操作系统等相关技术。</p> <p><strong>我希望通过嵌入式技术，为智能设备的开发和优化贡献我的力量。</strong></p> <p>我坚信，持续的学习和努力会为我带来丰硕的成果，我期待与更多志同道合的技术同仁共同进步。</p> </td></tr> <tr><td> <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whc-coder&show_icons=true&theme=react" />
+👨‍💻 我叫吴辉传，吉首大学通信工程专业本科生
+🎯 我的兴趣涵盖嵌入式开发、图像处理和智能系统设计
+🚀 擅长 STM32、ESP32 等 MCU 开发，以及 C 语言编程和 RTOS 任务调度
+🏆 多次在全国性比赛中获奖，并成功参与了多个嵌入式系统开发项目
 ## 🔥 My Tooooys
 
 <img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
