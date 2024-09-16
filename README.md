@@ -34,7 +34,7 @@
 <tr>
 <td>
 
-<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whc-coder&show_icons=true&theme=react" />
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yesmore&show_icons=true&theme=react" />
 
 - 👨‍💻 我叫吴辉传，吉首大学通信工程专业本科生。  
 - 🎯 我的兴趣涵盖嵌入式开发、图像处理和智能系统设计。  
@@ -43,7 +43,7 @@
 
 ## 🔥 我的技能
 
-<img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whc-coder&layout=compact&hide=HTML&theme=react'/>
+<img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
 
 <ul> 
   <li>🦾 嵌入式开发 (STM32、ESP32、GD32、STC32)</li> 
