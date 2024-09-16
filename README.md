@@ -15,13 +15,17 @@
 #  🙋 Hello
 
 <table> <tr><td> <!-- 关于我 -->
-##🤺 关于我
+## 🤺 关于我
+
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-大家好，我是吴辉传，目前就读于吉首大学通信工程专业，并将于2025年6月毕业。
-我对嵌入式系统开发有极大的兴趣，熟悉多种MCU开发，包括STM32、GD32、ESP32等。
-掌握C语言编程、RTOS实时操作系统等相关技术，擅长嵌入式软硬件集成开发。
-我的目标是通过嵌入式技术，为智能设备的开发和优化贡献我的力量。
-持续学习和努力会带来丰硕的成果，我期待与更多志同道合的伙伴们共同进步。
+
+- 大家好，我是吴辉传，目前就读于吉首大学通信工程专业，并将于2025年6月毕业。
+- 我对嵌入式系统开发有极大的兴趣，熟悉多种MCU开发，包括STM32、GD32、ESP32等。
+- 掌握C语言编程、RTOS实时操作系统等相关技术，擅长嵌入式软硬件集成开发。
+- 我的目标是通过嵌入式技术，为智能设备的开发和优化贡献我的力量。
+- 我坚信，持续学习和努力一定会带来丰硕的成果。
+- 我期待与更多志同道合的伙伴们共同进步。
+
 </td></tr> <tr><td> <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whc-coder&show_icons=true&theme=react" />
 👨‍💻 我叫吴辉传，吉首大学通信工程专业本科生。
 🎯 我的兴趣涵盖嵌入式开发、图像处理和智能系统设计。
