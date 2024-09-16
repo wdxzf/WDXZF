@@ -7,8 +7,8 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="400"/><br>
+  <!-- Professional coding animation -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/><br>
 
 </div>
 
@@ -20,7 +20,7 @@
   
 ## 🤺 关于我
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 - **大家好，我是吴辉传**，目前就读于吉首大学通信工程专业，并将于2025年6月毕业。  
 - **我对嵌入式系统开发有极大的兴趣**，熟悉多种MCU开发，包括STM32、GD32、ESP32等。  
@@ -42,6 +42,8 @@
 - **🏆 奖项与项目经验**：多次在全国性比赛中获奖，并成功参与了多个嵌入式系统开发项目。  
 
 ## 🔥 我的技能
+
+<img align='right' width='200' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
 
 <ul> 
   <li>🦾 **嵌入式开发** (STM32、ESP32、GD32、STC32)</li> 
