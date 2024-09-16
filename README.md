@@ -27,6 +27,7 @@
 - 我坚信，持续学习和努力一定会带来丰硕的成果。
 - 我期待与更多志同道合的伙伴们共同进步。
 
+
 </td></tr> <tr><td> <img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whc-coder&show_icons=true&theme=react" />
 👨‍💻 我叫吴辉传，吉首大学通信工程专业本科生。
 🎯 我的兴趣涵盖嵌入式开发、图像处理和智能系统设计。
