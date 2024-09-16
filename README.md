@@ -20,6 +20,7 @@
   
 ## 🤺 关于我
 
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 - 大家好，我是吴辉传，目前就读于吉首大学通信工程专业，并将于2025年6月毕业。  
 - 我对嵌入式系统开发有极大的兴趣，熟悉多种MCU开发，包括STM32、GD32、ESP32等。  
@@ -33,6 +34,7 @@
 <tr>
 <td>
 
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whc-coder&show_icons=true&theme=react" />
 
 - 👨‍💻 我叫吴辉传，吉首大学通信工程专业本科生。  
 - 🎯 我的兴趣涵盖嵌入式开发、图像处理和智能系统设计。  
@@ -41,7 +43,7 @@
 
 ## 🔥 我的技能
 
-<img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yesmore&layout=compact&hide=HTML&theme=react'/>
+<img align='right' width='50%' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whc-coder&layout=compact&hide=HTML&theme=react'/>
 
 <ul> 
   <li>🦾 嵌入式开发 (STM32、ESP32、GD32、STC32)</li> 
@@ -55,10 +57,10 @@
 ## 🏆 项目经验
 
 <ul> 
-  <li>🤖 <strong>主从一体外骨骼康复仪</strong> - 中国机器人及人工智能大赛国家二等奖项目，负责 ESP32 的硬件设计及 RTOS 多任务调度开发</li> 
-  <li>🌊 <strong>北斗智感水质监测系统</strong> - 光电设计大赛省一等奖，负责 LoRa 网关数据处理与 MQTT 服务器部署</li> 
-  <li>🚁 <strong>UAV-UGV 空地协同系统</strong> - 基于 ROS 框架的机器人项目，实现无人车在复杂环境中的精准导航和避障</li> 
-  <li>🚜 <strong>大角度冲刷式采收一体莲藕收获装置</strong> - 全国大学生机械创新设计大赛国家二等奖项目，负责整个机械装置的硬件设计与自动控制系统的开发，集成了高压水流冲洗、远程遥控操作、喷管旋转和升降调节功能</li> 
+  <li>🤖 <strong>主从一体外骨骼康复仪|中国机器人及人工智能大赛国家二等奖</strong> - 负责 ESP32 的硬件设计及 RTOS 多任务调度开发</li> 
+  <li>🌊 <strong>北斗智感水质监测系统|光电设计大赛省一等奖</strong> - 负责 LoRa 网关数据处理与 MQTT 服务器部署</li> 
+  <li>🚁 <strong>UAV-UGV 空地协同系统|省级大学生创新训练项目</strong> - 基于 ROS 框架的机器人项目，实现无人车在复杂环境中的精准导航和避障</li> 
+  <li>🚜 <strong>大角度冲刷式采收一体莲藕收获装置|全国大学生机械创新设计大赛国家二等奖项目</strong> - 负责整个机械装置的硬件设计与自动控制系统的开发，集成了高压水流冲洗、远程遥控操作、喷管旋转和升降调节功能</li> 
 </ul>
 
 ## 🤖 Reach me
