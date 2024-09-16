@@ -36,6 +36,8 @@
 
 ## 👨‍💻 职业兴趣
 <img align="right" width="250" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+
+
 - **我叫吴辉传**，吉首大学通信工程专业本科生。  
 - **🎯 兴趣**：涵盖嵌入式开发、机械设计和智能系统设计。  
 - **🚀 技术优势**：擅长 STM32、ESP32 等 MCU 开发，以及 C 语言编程和 RTOS 任务调度。  
